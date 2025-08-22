@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root {
+    font-size: 62.5%;
+    --verde-musgo: #4A7C59;
+}
+div.green-column {
+    border: 0.4rem solid var(--verde-musgo)
+}
